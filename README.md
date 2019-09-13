@@ -8,6 +8,7 @@
 - 905 an-qi-ou-pai-xu-shu-zu-by-leetcode 按奇偶排序数组
 - 561 array-partition-i 数组拆分I
 - 509 fibonacci-number 斐波那契数
+- 867 transpose-matrix 转置矩阵
 
 ### others 偶遇其他算法题
 
