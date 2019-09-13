@@ -9,6 +9,7 @@
 - 561 array-partition-i 数组拆分I
 - 509 fibonacci-number 斐波那契数
 - 867 transpose-matrix 转置矩阵
+- 922 sort-array-by-parity-i 按奇偶排序数组II
 
 ### others 偶遇其他算法题
 
