@@ -14,6 +14,6 @@
 - [1002 find-common-characters 查找常用字符](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindCommonCharacters.java)
 - [1051 height-checker 高度检查器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/HeightChecker.java)
 
-### others 偶遇其他算法题
+### others 偶遇其他算法题 
 
 - [【小米2019校招】 MinimumPath 最小路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MinimumPath.java) 
