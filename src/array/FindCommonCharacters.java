@@ -166,7 +166,6 @@ public class FindCommonCharacters {
                 }
             }
         }
-
         return res;
     }
 
@@ -197,5 +196,4 @@ public class FindCommonCharacters {
             System.out.print(o);
         }
     }
-
 }
