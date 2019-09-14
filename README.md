@@ -11,8 +11,9 @@
 - [922 sort-array-by-parity-i 按奇偶排序数组II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SortArrayByParityII.java)
 - [977 squares-of-a-sorted-array 有序数组的平方](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SquaresOf_A_SortedArray.java)
 - [999 available-captures-for-rook 车的可用捕获量](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/AvailableCapturesForRook.java)
+- [1002 find-common-characters 查找常用字符](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindCommonCharacters.java)
 - [1051 height-checker 高度检查器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/HeightChecker.java)
 
 ### others 偶遇其他算法题
 
-- 【小米2019校招】 MinimumPath 最小路径 
+- [【小米2019校招】 MinimumPath 最小路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MinimumPath.java) 
