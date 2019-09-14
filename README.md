@@ -10,6 +10,7 @@
 - 509 fibonacci-number 斐波那契数
 - 867 transpose-matrix 转置矩阵
 - 922 sort-array-by-parity-i 按奇偶排序数组II
+- 999 available-captures-for-rook 车的可用捕获量
 
 ### others 偶遇其他算法题
 
