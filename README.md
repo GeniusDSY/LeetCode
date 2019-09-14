@@ -11,6 +11,7 @@
 - 867 transpose-matrix 转置矩阵
 - 922 sort-array-by-parity-i 按奇偶排序数组II
 - 999 available-captures-for-rook 车的可用捕获量
+- 118 pascals-triangle 杨辉三角
 
 ### others 偶遇其他算法题
 
