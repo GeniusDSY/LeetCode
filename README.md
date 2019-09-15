@@ -5,6 +5,7 @@
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangle.java)
 - [509 fibonacci-number 斐波那契数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FibonacciNumber.java)
 - [561 array-partition-i 数组拆分I](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ArrayPartitionI.java)
+- [566 reshape-the-matrix 重塑矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ReshapeTheMatrix.java)
 - [832 flipping-an-image 翻转图像](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FlippingAnImage.java)
 - [867 transpose-matrix 转置矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TransposeMatrix.java)
 - [905 sort-array-by-parity 按奇偶排序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SortArrayByParity.java) 
