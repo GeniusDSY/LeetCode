@@ -13,7 +13,7 @@
 - [999 available-captures-for-rook 车的可用捕获量](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/AvailableCapturesForRook.java)
 - [1002 find-common-characters 查找常用字符](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindCommonCharacters.java)
 - [1051 height-checker 高度检查器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/HeightChecker.java)
-
+- [1122 relative-sort-array 数组的相对排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RelativeSortArray.java)
 ### others 偶遇其他算法题 
 
 - [【小米2019校招】 MinimumPath 最小路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MinimumPath.java) 
