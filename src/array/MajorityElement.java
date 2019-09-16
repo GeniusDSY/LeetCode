@@ -26,6 +26,7 @@ public class MajorityElement {
      * @return
      * 【复杂度分析】
      *      时间复杂度：O(N)N为数组长度
+     *      空间复杂度：O(n)
      */
     public int majorityElement(int[] nums) {
         int result = 0;
@@ -46,10 +47,13 @@ public class MajorityElement {
     }
 
     /**
-     * 【想法】
+     * 【想法】 Boyer-Moore 投票算法
      *      从第一个元素作为标准进行计数，遇到相同的就++，不同的就--，减到0了就重新赋值当前位置的元素，因为众数超过一半，所以最后至少会剩下1不会减到0，故返回值就是众数。
      * @param nums
      * @return
+     * 【复杂度分析】
+     *      空间复杂度：O(n)
+     *      空间复杂度：O(1)
      */
     public int majorityElement1(int[] nums) {
         int count =0;
@@ -74,10 +78,63 @@ public class MajorityElement {
      *      排序后，因为超过了半数，那么最中间那个一定是众数
      * @param nums
      * @return
+     * 【复杂度分析】
+     *      时间复杂度：O(nlgn)
+     *      空间复杂度：O(1)或者 O(n)
+     *      我们将 nums 就地排序，如果不能就低排序，我们必须使用线性空间将 nums 数组拷贝，然后再排序。
      */
     public int majorityElement2(int[] nums) {
         Arrays.sort(nums);
         return nums[nums.length/2];
+    }
+
+    /**
+     * 【思路】 分治算法
+     *      如果我们知道数组左边一半和右边一半的众数，我们就可以用线性时间知道全局的众数是哪个。
+     * 【算法】
+     *      这里我们使用经典的分治算法递归求解，直到所有的子问题都是长度为 1 的数组。由于传输子数组需要额外的时间和空间，所以我们实际上只传输子区间的左右指针 lo 和 hi 表示相应区间的左右下标。长度为 1 的子数组中唯一的数显然是众数，直接返回即可。如果回溯后某区间的长度大于 1 ，我们必须将左右子区间的值合并。如果它们的众数相同，那么显然这一段区间的众数是它们相同的值。否则，我们需要比较两个众数在整个区间内出现的次数来决定该区间的众数。原问题的答案就是下标为 0 和 n 之间的众数这一子问题。
+     * @param nums
+     * @return
+     * 【复杂度分析】
+     *      时间复杂度：O(nlgn)
+     *      空间复杂度：O(lgn)
+     */
+    private int countInRange(int[] nums, int num, int lo, int hi) {
+        int count = 0;
+        for (int i = lo; i <= hi; i++) {
+            if (nums[i] == num) {
+                count++;
+            }
+        }
+        return count;
+    }
+
+    private int majorityElement3(int[] nums, int lo, int hi) {
+        // base case; the only element in an array of size 1 is the majority
+        // element.
+        if (lo == hi) {
+            return nums[lo];
+        }
+
+        // recurse on left and right halves of this slice.
+        int mid = (hi-lo)/2 + lo;
+        int left = majorityElement3(nums, lo, mid);
+        int right = majorityElement3(nums, mid+1, hi);
+
+        // if the two halves agree on the majority element, return it.
+        if (left == right) {
+            return left;
+        }
+
+        // otherwise, count each element and return the "winner".
+        int leftCount = countInRange(nums, left, lo, hi);
+        int rightCount = countInRange(nums, right, lo, hi);
+
+        return leftCount > rightCount ? left : right;
+    }
+
+    public int majorityElement3(int[] nums) {
+        return majorityElement3(nums, 0, nums.length-1);
     }
 
     public static void main(String[] args) {
@@ -95,6 +152,11 @@ public class MajorityElement {
         System.out.println(result);
         start = System.nanoTime();
         result = element.majorityElement2(arr);
+        end = System.nanoTime();
+        System.out.println("运行时间：" + (end - start) / 1000000.0 + "ms");
+        System.out.println(result);
+        start = System.nanoTime();
+        result = element.majorityElement3(arr);
         end = System.nanoTime();
         System.out.println("运行时间：" + (end - start) / 1000000.0 + "ms");
         System.out.println(result);
