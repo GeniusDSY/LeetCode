@@ -14,6 +14,7 @@
 - [905 sort-array-by-parity 按奇偶排序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SortArrayByParity.java) 
 - [922 sort-array-by-parity-i 按奇偶排序数组II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SortArrayByParityII.java)
 - [977 squares-of-a-sorted-array 有序数组的平方](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SquaresOf_A_SortedArray.java)
+- [985 sum-of-even-numbers-after-queries 查询后的偶数和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SumOfEvenNumbersAfterQueries.java)
 - [999 available-captures-for-rook 车的可用捕获量](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/AvailableCapturesForRook.java)
 - [1002 find-common-characters 查找常用字符](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindCommonCharacters.java)
 - [1051 height-checker 高度检查器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/HeightChecker.java)
