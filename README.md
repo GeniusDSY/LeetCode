@@ -7,6 +7,7 @@
 - [122 best-time-to-buy-and-sell-stock-ii 买卖股票的最佳时机II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStockII) 
 - [169 majority-element 求众数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MajorityElement.java)
 - [283 move-zeroes 移动零](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MoveZeroes.java)
+- [485 max-consecutive-ones 最大连续1的个数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaxConsecutiveOnes.java)
 - [509 fibonacci-number 斐波那契数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FibonacciNumber.java)
 - [561 array-partition-i 数组拆分I](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ArrayPartitionI.java)
 - [566 reshape-the-matrix 重塑矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ReshapeTheMatrix.java)
