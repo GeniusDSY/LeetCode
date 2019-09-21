@@ -106,7 +106,7 @@ public class FindAllNumbersDisappearedInAnArray {
         long start = System.nanoTime();
         List<Integer> list = array.findDisappearedNumbers(arr);
         long end = System.nanoTime();
-        System.out.println("数组下标记录方法运行时间：" + (end - start) / 1000000.0 + "ms");
+        System.out.println("方法运行时间：" + (end - start) / 1000000.0 + "ms");
         for (Integer o : list) {
             System.out.print(o);
         }
@@ -114,7 +114,7 @@ public class FindAllNumbersDisappearedInAnArray {
         start = System.nanoTime();
         list = array.findDisappearedNumbers1(arr1);
         end = System.nanoTime();
-        System.out.println("数组下标记录方法运行时间：" + (end - start) / 1000000.0 + "ms");
+        System.out.println("方法运行时间：" + (end - start) / 1000000.0 + "ms");
         for (Integer o : list) {
             System.out.print(o);
         }
@@ -122,7 +122,7 @@ public class FindAllNumbersDisappearedInAnArray {
         start = System.nanoTime();
         list = array.findDisappearedNumbers2(arr2);
         end = System.nanoTime();
-        System.out.println("数组下标记录方法运行时间：" + (end - start) / 1000000.0 + "ms");
+        System.out.println("方法运行时间：" + (end - start) / 1000000.0 + "ms");
         for (Integer o : list) {
             System.out.print(o);
         }
