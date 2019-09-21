@@ -21,6 +21,7 @@
 - [985 sum-of-even-numbers-after-queries 查询后的偶数和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SumOfEvenNumbersAfterQueries.java)
 - [999 available-captures-for-rook 车的可用捕获量](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/AvailableCapturesForRook.java)
 - [1002 find-common-characters 查找常用字符](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindCommonCharacters.java)
+- [1013 partition-array-into-three-parts-with-equal-sum 将数组分成和相等的三个部分](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PartitionArrayIntoThreePartsWithEqualSum.java)
 - [1051 height-checker 高度检查器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/HeightChecker.java)
 - [1089 duplicate-zeros](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateZeros.java)
 - [1122 relative-sort-array 数组的相对排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RelativeSortArray.java)
