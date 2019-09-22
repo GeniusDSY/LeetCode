@@ -8,6 +8,7 @@
 - [121 best-time-to-buy-and-sell-stock 买卖股票的最佳时机](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStock.java)
 - [122 best-time-to-buy-and-sell-stock-ii 买卖股票的最佳时机II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStockII.java) 
 - [169 majority-element 求众数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MajorityElement.java)
+- [217 contains-duplicat 存在重复元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ContainsDuplicat.java)
 - [268 missing-number](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MissingNumber.java)
 - [283 move-zeroes 移动零](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MoveZeroes.java)
 - [448 find-all-numbers-disappeared-in-an-array 找到所有数组中消失的数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindAllNumbersDisappearedInAnArray.java)
