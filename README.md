@@ -4,6 +4,7 @@
 
 - [1 two-sum 两数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TwoSum.java)
 - [2 add-two-numbers 两数相加](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/AddTwoNumbers.java)
+- [3 longest-substring-without-repeating-characters 无重复字符的最长子串](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestSubstringWithoutRepeatingCharacters.java)
 - [4 median-of-two-sorted-arrays 寻找两个有序数组的中位数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MedianOfTwoSortedArrays.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangle.java)
