@@ -7,6 +7,7 @@
 - [3 longest-substring-without-repeating-characters 无重复字符的最长子串](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestSubstringWithoutRepeatingCharacters.java)
 - [4 median-of-two-sorted-arrays 寻找两个有序数组的中位数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MedianOfTwoSortedArrays.java)
 - [5 longest-palindromic-substring 最长回文子串](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestPalindromicSubstring.java)
+- [6 zigzag-conversion Z 字形变换](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ZigzagConversion.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangle.java)
 - [119 pascals-triangle-ii 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangleII.java)
@@ -19,7 +20,7 @@
 - [283 move-zeroes 移动零](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MoveZeroes.java)
 - [448 find-all-numbers-disappeared-in-an-array 找到所有数组中消失的数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindAllNumbersDisappearedInAnArray.java)
 - [485 max-consecutive-ones 最大连续1的个数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaxConsecutiveOnes.java)
-- [509 fibonacci-number 斐波那契数](htttu'pian'ping'hua'qips://github.com/GeniusDSY/LeetCode/blob/master/src/array/FibonacciNumber.java)
+- [509 fibonacci-number 斐波那契数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FibonacciNumber.java)
 - [561 array-partition-i 数组拆分I](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ArrayPartitionI.java)
 - [566 reshape-the-matrix 重塑矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ReshapeTheMatrix.java)
 - [661 image-smoother 图片平滑器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ImageSmoother.java)
@@ -35,10 +36,10 @@
 - [1002 find-common-characters 查找常用字符](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindCommonCharacters.java)
 - [1013 partition-array-into-three-parts-with-equal-sum 将数组分成和相等的三个部分](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PartitionArrayIntoThreePartsWithEqualSum.java)
 - [1051 height-checker 高度检查器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/HeightChecker.java)
-- [1089 duplicate-zeros](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateZeros.java)
+- [1089 duplicate-zeros 复写零](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateZeros.java)
 - [1122 relative-sort-array 数组的相对排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RelativeSortArray.java)
 - [1160 find-words-that-can-be-formed-by-characters 拼写单词](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindWordsThatCanBeFormedByCharacters.java)
-- [1170 compare-strings-by-frequency-of-the-smallest-character](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/CompareStringsByFrequencyOfTheSmallestCharacter.java)
+- [1170 compare-strings-by-frequency-of-the-smallest-character 比较字符串最小字母出现频次 ](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/CompareStringsByFrequencyOfTheSmallestCharacter.java)
 
 ### others 偶遇其他算法题 
 
