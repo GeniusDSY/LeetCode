@@ -8,6 +8,7 @@
 - [4 median-of-two-sorted-arrays 寻找两个有序数组的中位数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MedianOfTwoSortedArrays.java)
 - [5 longest-palindromic-substring 最长回文子串](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestPalindromicSubstring.java)
 - [6 zigzag-conversion Z 字形变换](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ZigzagConversion.java)
+- [7 reverse-integer 整数反转](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ReverseInteger.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangle.java)
 - [119 pascals-triangle-ii 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangleII.java)
