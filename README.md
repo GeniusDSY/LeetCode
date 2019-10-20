@@ -10,6 +10,7 @@
 - [6 zigzag-conversion Z 字形变换](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ZigzagConversion.java)
 - [7 reverse-integer 整数反转](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ReverseInteger.java)
 - [8 string-to-integer-atoi 字符串转换整数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/StringToIntegerAtoi.java)
+- [9 palindrome-number 回文数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PalindromeNumber.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangle.java)
 - [119 pascals-triangle-ii 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangleII.java)
