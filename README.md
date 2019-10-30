@@ -16,6 +16,7 @@
 - [12 integer-to-roman](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/IntegerToRoman.java)
 - [13 roman-to-integer](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RomanToInteger.java)
 - [14 longest-common-prefix](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestCommonPrefix.java)
+- [15 3sum](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ThreeNum.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangle.java)
 - [119 pascals-triangle-ii 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangleII.java)
