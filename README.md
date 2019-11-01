@@ -47,6 +47,7 @@
 - [1013 partition-array-into-three-parts-with-equal-sum 将数组分成和相等的三个部分](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PartitionArrayIntoThreePartsWithEqualSum.java)
 - [1051 height-checker 高度检查器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/HeightChecker.java)
 - [1089 duplicate-zeros 复写零](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateZeros.java)
+- [1108 defanging-an-ip-address IP地址无效化](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DefangingAnIpAddress.java)
 - [1122 relative-sort-array 数组的相对排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RelativeSortArray.java)
 - [1160 find-words-that-can-be-formed-by-characters 拼写单词](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindWordsThatCanBeFormedByCharacters.java)
 - [1170 compare-strings-by-frequency-of-the-smallest-character 比较字符串最小字母出现频次 ](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/CompareStringsByFrequencyOfTheSmallestCharacter.java)
