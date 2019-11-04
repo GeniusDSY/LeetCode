@@ -30,6 +30,7 @@
 - [448 find-all-numbers-disappeared-in-an-array 找到所有数组中消失的数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindAllNumbersDisappearedInAnArray.java)
 - [485 max-consecutive-ones 最大连续1的个数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaxConsecutiveOnes.java)
 - [509 fibonacci-number 斐波那契数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FibonacciNumber.java)
+- [535 encode-and-decode-tinyurl TinyURL 的加密与解密](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/EncodeAndDecodeTinyUrl.java)
 - [561 array-partition-i 数组拆分I](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ArrayPartitionI.java)
 - [566 reshape-the-matrix 重塑矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ReshapeTheMatrix.java)
 - [661 image-smoother 图片平滑器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ImageSmoother.java)
