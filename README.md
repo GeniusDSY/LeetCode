@@ -54,6 +54,7 @@
 - [1160 find-words-that-can-be-formed-by-characters 拼写单词](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindWordsThatCanBeFormedByCharacters.java)
 - [1170 compare-strings-by-frequency-of-the-smallest-character 比较字符串最小字母出现频次 ](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/CompareStringsByFrequencyOfTheSmallestCharacter.java)
 - [LCP1 guess-numbers 猜数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/GuessNumbers.java) 
+
 ### others 偶遇其他算法题 
 
 - [【小米2019校招】 MinimumPath 最小路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MinimumPath.java) 
