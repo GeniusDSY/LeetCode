@@ -37,6 +37,7 @@
 - [697 degree-of-an-array 数组的度](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DegreeOfAnArray.java)
 - [766 toeplitz-matrix 托普利茨矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ToeplitzMatrix.java)
 - [771 jewels-and-stones 宝石与石头](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/JewelsAndStone.java)
+- [807 max-increase-to-keep-city-skyline 保持城市天际线](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaxIncreaseToKeepCitySkyline.java)
 - [832 flipping-an-image 翻转图像](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FlippingAnImage.java)
 - [867 transpose-matrix 转置矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TransposeMatrix.java)
 - [905 sort-array-by-parity 按奇偶排序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SortArrayByParity.java) 
