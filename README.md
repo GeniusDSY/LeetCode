@@ -34,6 +34,7 @@
 - [535 encode-and-decode-tinyurl TinyURL 的加密与解密](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/EncodeAndDecodeTinyUrl.java)
 - [561 array-partition-i 数组拆分I](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ArrayPartitionI.java)
 - [566 reshape-the-matrix 重塑矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ReshapeTheMatrix.java)
+- [654 maximum-binary-tree 最大二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaximumBinaryTree.java)
 - [661 image-smoother 图片平滑器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ImageSmoother.java)
 - [697 degree-of-an-array 数组的度](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DegreeOfAnArray.java)
 - [766 toeplitz-matrix 托普利茨矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ToeplitzMatrix.java)
