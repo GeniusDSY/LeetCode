@@ -24,6 +24,7 @@
 - [122 best-time-to-buy-and-sell-stock-ii 买卖股票的最佳时机II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStockII.java)
 - [167 two-sum-ii-input-array-is-sorted 两数之和 II - 输入有序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TwoSumIIInputArrayIsSorted.java) 
 - [169 majority-element 求众数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MajorityElement.java)
+- [182 duplicate-emails 查找重复的电子邮箱](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateEmails.sql)
 - [217 contains-duplicat 存在重复元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ContainsDuplicat.java)
 - [237 delete-node-in-a-linked-list 删除链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DeleteNodeInALinkedList.java)
 - [268 missing-number](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MissingNumber.java)
