@@ -42,6 +42,7 @@
 - [771 jewels-and-stones 宝石与石头](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/JewelsAndStone.java)
 - [807 max-increase-to-keep-city-skyline 保持城市天际线](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaxIncreaseToKeepCitySkyline.java)
 - [832 flipping-an-image 翻转图像](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FlippingAnImage.java)
+- [862 shortest-subarray-with-sum-at-least-k 和至少为 K 的最短子数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ShortestSubArrayWithSumAtLeastK.java)
 - [867 transpose-matrix 转置矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TransposeMatrix.java)
 - [905 sort-array-by-parity 按奇偶排序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SortArrayByParity.java) 
 - [922 sort-array-by-parity-i 按奇偶排序数组II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SortArrayByParityII.java)
