@@ -53,6 +53,7 @@
 - [999 available-captures-for-rook 车的可用捕获量](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/AvailableCapturesForRook.java)
 - [1002 find-common-characters 查找常用字符](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindCommonCharacters.java)
 - [1013 partition-array-into-three-parts-with-equal-sum 将数组分成和相等的三个部分](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PartitionArrayIntoThreePartsWithEqualSum.java)
+- [1044 longest-duplicate-substring 最长字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestDuplicateSubstring.java)
 - [1051 height-checker 高度检查器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/HeightChecker.java)
 - [1089 duplicate-zeros 复写零](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateZeros.java)
 - [1108 defanging-an-ip-address IP地址无效化](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DefangingAnIpAddress.java)
