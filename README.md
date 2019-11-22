@@ -1,5 +1,11 @@
 # LeetCode算法学习
 
+## 探索模块学习
+
+### 递归I
+
+- [344 ReverseString 反转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseString.java)
+
 ### array 数组类算法题
 
 - [1 two-sum 两数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TwoSum.java)
