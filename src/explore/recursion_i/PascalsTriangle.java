@@ -1,4 +1,4 @@
-package array;
+package explore.recursion_i;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -37,7 +37,7 @@ public class PascalsTriangle {
      *      空间复杂度：O(numRows^2)
      *  )
      */
-    public List<List<Integer>> generate(int numRows) {
+    public List<List<Integer>> generate1(int numRows) {
         List<List<Integer>> triangle = new ArrayList<>();
         if (numRows == 0) {
             return triangle;
@@ -57,11 +57,53 @@ public class PascalsTriangle {
         return triangle;
     }
 
+    /**
+     * 【解法二】
+     *      递归
+     *      首先判断是否是有0行或者1行，直接返回或者赋值1返回
+     *      之后使用递归，从第一行向下进行一一计算赋值
+     *
+     */
+    public List<List<Integer>> generate2(int numRows) {
+        List<List<Integer>> result = new ArrayList<>();
+        if (numRows == 0) {
+            return result;
+        } else if (numRows == 1) {
+            List<Integer> list = new ArrayList<>();
+            list.add(1);
+            result.add(list);
+            return result;
+        } else {
+            result = generate2(numRows-1);
+            List<Integer> lastList = result.get(result.size()-1);
+            List<Integer> list = new ArrayList<>();
+            list.add(1);
+            for (int i = 0; i < lastList.size()-1; i++) {
+                list.add(lastList.get(i) + lastList.get(i+1));
+            }
+            list.add(1);
+            result.add(list);
+            return result;
+        }
+    }
+
     public static void main(String[] args) {
         PascalsTriangle triangle = new PascalsTriangle();
         long start = System.nanoTime();
-        List<List<Integer>> lists = triangle.generate(10);
+        List<List<Integer>> lists = triangle.generate1(10);
         long end = System.nanoTime();
+        System.out.println("运行时间：" + (end - start) / 1000000.0 + "ms");
+        for (List<Integer> list : lists) {
+            System.out.print("[");
+            for (Integer integer : list) {
+                System.out.print(integer + ",");
+            }
+            System.out.print("]");
+            System.out.println();
+        }
+        start = System.nanoTime();
+        lists = triangle.generate2(10);
+        end = System.nanoTime();
         System.out.println("运行时间：" + (end - start) / 1000000.0 + "ms");
         for (List<Integer> list : lists) {
             System.out.print("[");
