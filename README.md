@@ -2,13 +2,13 @@
 
 ## 探索模块学习
 
-### [递归I](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归I)
+### [递归I](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归I)
 
-- [递归原理](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归原理)
-    - [递归原理内容](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归原理内容)
-    - [递归函数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归函数)
+- [递归原理](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理)
+    - [递归原理内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理内容)
+    - [递归函数](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归函数)
 
-- [递归题解](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归题解)
+- [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归题解)
 
 
 
