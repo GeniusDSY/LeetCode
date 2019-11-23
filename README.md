@@ -2,10 +2,15 @@
 
 ## 探索模块学习
 
-### [递归I](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README#递归I)
+### [递归I](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归I)
 
-- [344 ReverseString 反转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseString.java)
-- [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
+- [递归原理](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归原理)
+    - [递归原理内容](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归原理内容)
+    - [递归函数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归函数)
+
+- [递归题解](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/README.md#递归题解)
+
+
 
 ### array 数组类算法题
 
