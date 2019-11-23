@@ -26,7 +26,21 @@
 - 调用函数 F(x0),F(x1),...,F(xn)递归地 解决 X 的这些子问题；
 最后，处理调用递归函数得到的结果来解决对应 X 的问题。
 
+## 递推关系
+
+### 递推关系内容
+
+在实现递归函数之前，有两件重要的事情需要弄清楚:
+
+- <span style="color:red"><code>递推关系</code></span>： 一个问题的结果与其子问题的结果之间的关系。
+- <span style="color:red"><code>基本情况</code></span>: 不需要进一步的递归调用就可以直接计算答案的情况。 有时，基本案例也被称为 bottom cases，因为它们往往是问题被减少到最小规模的情况，也就是如果我们认为将问题划分为子问题是一种自上而下的方式的最下层。
+
+> 一旦我们计算出以上两个元素，再想要实现一个递归函数，就只需要根据<span style="color:red"><code>递推关系</code></span>调用函数本身，直到其抵达<span style="color:red"><code>基本情况</code></span>。
+
 ## 递归题解
 
-- [344 reverse-string 反转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseString.java)
 - [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
+- [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangle.java)
+- [119 pascals-triangle-ii 杨辉三角II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangleII.java)
+- [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
+- [344 reverse-string 反转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseString.java)

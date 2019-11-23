@@ -7,12 +7,13 @@
 - [递归原理](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理)
     - [递归原理内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理内容)
     - [递归函数](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归函数)
-
+- [递推关系](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系)
+    - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系内容)
 - [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归题解)
 
 
 
-### array 数组类算法题
+### 题库
 
 - [1 two-sum 两数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TwoSum.java)
 - [2 add-two-numbers 两数相加](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/AddTwoNumbers.java)
@@ -29,14 +30,16 @@
 - [13 roman-to-integer](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RomanToInteger.java)
 - [14 longest-common-prefix](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestCommonPrefix.java)
 - [15 3sum 三数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ThreeNum.java)
+- [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
-- [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangle.java)
-- [119 pascals-triangle-ii 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/PascalsTriangleII.java)
+- [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangle.java)
+- [119 pascals-triangle-ii 杨辉三角II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangleII.java)
 - [121 best-time-to-buy-and-sell-stock 买卖股票的最佳时机](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStock.java)
 - [122 best-time-to-buy-and-sell-stock-ii 买卖股票的最佳时机II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStockII.java)
 - [167 two-sum-ii-input-array-is-sorted 两数之和 II - 输入有序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TwoSumIIInputArrayIsSorted.java) 
 - [169 majority-element 求众数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MajorityElement.java)
 - [182 duplicate-emails 查找重复的电子邮箱](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateEmails.sql)
+- [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
 - [217 contains-duplicat 存在重复元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ContainsDuplicat.java)
 - [237 delete-node-in-a-linked-list 删除链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DeleteNodeInALinkedList.java)
 - [268 missing-number](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MissingNumber.java)
