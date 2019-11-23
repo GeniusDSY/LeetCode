@@ -1,4 +1,4 @@
-package array;
+package explore.recursion_i;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -86,6 +86,22 @@ public class PascalsTriangleII {
         return (int) res;
     }
 
+    /**
+     * 【想法】
+     *      首先我们应该了解杨辉三角正好是二次项的展开式,(1+x)的n次幂的系数,有通项公式C(n-1,m-1)=(n-1)!/[(m-1)!(n-m)!] 而研究每一项后,发现他们的规律,如
+     *      C(4,1)=C(4,0)*4/1,C(4,2)=C(4,1)*3/2,
+     *      C(4,3)=C(4,2)*2/3,C(4,4)=C(4,3)*1/4。
+     */
+    public List<Integer> getRow3(int rowIndex) {
+        List<Integer> res = new ArrayList<Integer>(rowIndex+1);
+        long nk = 1;
+        for(int i = 0; i <= rowIndex; i++){
+            res.add((int)nk);
+            nk = nk * (rowIndex - i) / (i + 1);
+        }
+        return res;
+    }
+
     public static void main(String[] args) {
         PascalsTriangleII triangleII = new PascalsTriangleII();
         long start = System.nanoTime();
@@ -106,6 +122,14 @@ public class PascalsTriangleII {
         System.out.println();
         start = System.nanoTime();
         result = triangleII.getRow2(3);
+        end = System.nanoTime();
+        System.out.println("运行时间：" + (end - start) / 1000000.0 + "ms");
+        for (Integer integer : result) {
+            System.out.print(integer);
+        }
+        System.out.println();
+        start = System.nanoTime();
+        result = triangleII.getRow3(3);
         end = System.nanoTime();
         System.out.println("运行时间：" + (end - start) / 1000000.0 + "ms");
         for (Integer integer : result) {
