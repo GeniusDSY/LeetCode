@@ -11,7 +11,7 @@
      - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递推关系内容)
 - [Memoization(记忆化)技术](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#memoization记忆化技术)
     - [递归中的重复计算](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归中的重复计算)
-   
+        - [记忆化](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#记忆化)
 - [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归题解)
 
 
