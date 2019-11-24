@@ -9,7 +9,7 @@
     - [递归函数](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归函数)
 - [递推关系](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递推关系)
      - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递推关系内容)
-- [Memoization(记忆化)技术](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#Memoization(记忆化)技术)
+- [Memoization(记忆化)技术](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#memoization记忆化技术)
     - [递归中的重复计算](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归中的重复计算)
    
 - [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归题解)
