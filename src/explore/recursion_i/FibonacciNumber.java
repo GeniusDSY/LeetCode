@@ -1,4 +1,6 @@
-package array;
+package explore.recursion_i;
+
+import java.util.HashMap;
 
 /**
  * @author :DengSiYuan
@@ -61,6 +63,23 @@ public class FibonacciNumber {
         return sum;
     }
 
+    HashMap<Integer, Integer> cache = new HashMap<>();
+
+    private int fib2(int N) {
+        if (cache.containsKey(N)) {
+            return cache.get(N);
+        }
+        int result;
+        if (N < 2) {
+            result = N;
+        } else {
+            result = fib2(N-1) + fib2(N-2);
+        }
+        // keep the result in cache.
+        cache.put(N, result);
+        return result;
+    }
+
     public static void main(String[] args) {
         FibonacciNumber fib = new FibonacciNumber();
         long start = System.nanoTime();
@@ -73,6 +92,11 @@ public class FibonacciNumber {
         end = System.nanoTime();
         System.out.println(result);
         System.out.println("动态规划运行时间：" + (end - start)/1000000.0 + "ms");
+        start = System.nanoTime();
+        result = fib.fib2(30);
+        end = System.nanoTime();
+        System.out.println(result);
+        System.out.println("记忆化递归运行时间：" + (end - start)/1000000.0 + "ms");
     }
 
 }

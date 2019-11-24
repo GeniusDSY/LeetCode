@@ -8,7 +8,10 @@
     - [递归原理内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理内容)
     - [递归函数](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归函数)
 - [递推关系](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系)
-    - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系内容)
+     - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系内容)
+- [Memoization(记忆化)技术](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#Memoization(记忆化)技术)
+    - [递归中的重复计算](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归中的重复计算)
+   
 - [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归题解)
 
 
@@ -47,7 +50,7 @@
 - [420 strong-password-checker 强密码检验器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/StrongPasswordChecker.java)
 - [448 find-all-numbers-disappeared-in-an-array 找到所有数组中消失的数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindAllNumbersDisappearedInAnArray.java)
 - [485 max-consecutive-ones 最大连续1的个数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaxConsecutiveOnes.java)
-- [509 fibonacci-number 斐波那契数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FibonacciNumber.java)
+- [509 fibonacci-number 斐波那契数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/FibonacciNumber.java)
 - [535 encode-and-decode-tinyurl TinyURL 的加密与解密](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/EncodeAndDecodeTinyUrl.java)
 - [561 array-partition-i 数组拆分I](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ArrayPartitionI.java)
 - [564 find-the-closest-palindrome 寻找最近的回文数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindTheClosestPalindrome.java)
