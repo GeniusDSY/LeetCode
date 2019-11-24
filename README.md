@@ -35,6 +35,7 @@
 - [15 3sum 三数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ThreeNum.java)
 - [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
+- [70 climbing-stairs 爬楼梯](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ClimbingStairs.java)
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangle.java)
 - [119 pascals-triangle-ii 杨辉三角II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangleII.java)
 - [121 best-time-to-buy-and-sell-stock 买卖股票的最佳时机](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStock.java)

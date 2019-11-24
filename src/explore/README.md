@@ -123,6 +123,7 @@ public class Main {
 ### 递归题解
 
 - [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
+- [70 climbing-stairs 爬楼梯](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ClimbingStairs.java)
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangle.java)
 - [119 pascals-triangle-ii 杨辉三角II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangleII.java)
 - [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
