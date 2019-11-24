@@ -2,17 +2,17 @@
 
 ## 探索模块学习
 
-### [递归I](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归I)
+### [递归I](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归I)
 
-- [递归原理](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理)
-    - [递归原理内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理内容)
-    - [递归函数](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归函数)
-- [递推关系](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系)
-     - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系内容)
-- [Memoization(记忆化)技术](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#Memoization(记忆化)技术)
-    - [递归中的重复计算](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归中的重复计算)
+- [递归原理](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归原理)
+    - [递归原理内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归原理内容)
+    - [递归函数](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归函数)
+- [递推关系](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递推关系)
+     - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递推关系内容)
+- [Memoization(记忆化)技术](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#Memoization(记忆化)技术)
+    - [递归中的重复计算](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归中的重复计算)
    
-- [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归题解)
+- [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归题解)
 
 
 
