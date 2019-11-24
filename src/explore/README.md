@@ -1,8 +1,9 @@
-# 递归I
+# 探索
+## 递归I
 
-## 递归原理
+### 递归原理
 
-### 递归原理内容
+#### 递归原理内容
 
 > 递归是一种解决问题的有效方法，在递归过程中，函数将自身作为子例程调用
 
@@ -14,7 +15,7 @@
 一组规则，也称作递推关系（recurrence relation），可将所有其他情况拆分到基本案例。
 注意，函数可能会有多个位置进行自我调用。
 
-### 递归函数
+#### 递归函数
 
 对于一个问题，如果存在递归解决方案，我们可以按照以下步骤来实施它。
 
@@ -26,9 +27,9 @@
 - 调用函数 F(x0),F(x1),...,F(xn)递归地 解决 X 的这些子问题；
 最后，处理调用递归函数得到的结果来解决对应 X 的问题。
 
-## 递推关系
+### 递推关系
 
-### 递推关系内容
+#### 递推关系内容
 
 在实现递归函数之前，有两件重要的事情需要弄清楚:
 
@@ -37,9 +38,9 @@
 
 > 一旦我们计算出以上两个元素，再想要实现一个递归函数，就只需要根据<span style="color:red"><code>递推关系</code></span>调用函数本身，直到其抵达<span style="color:red"><code>基本情况</code></span>。
 
-## Memoization(记忆化)技术
+### Memoization(记忆化)技术
 
-### 递归中的重复计算
+#### 递归中的重复计算
 
 通常情况下，递归是一种直观而有效的实现算法的方法。 但是，如果我们不明智地使用它，可能会给性能带来一些不希望的损失，例如重复计算。 在前一章的末尾，我们遇到了帕斯卡三角的重复计算问题，其中一些中间结果被多次计算。
 
@@ -81,7 +82,7 @@ F(4) = F(3) + F(2) = (F(2) + F(1)) + F(2)
 
 ![mark](http://picture.geniusdsy.cn/picture/20191124/Po1s3r2VPUlv.png?imageslim)
 
-#### 记忆化
+##### 记忆化
 
 为了消除上述情况中的重复计算，正如许多人已经指出的那样，其中一个想法是将中间结果存储在缓存中，以便我们以后可以重用它们，而不需要重新计算。
 
@@ -119,7 +120,7 @@ public class Main {
 }
 ```
 
-## 递归题解
+### 递归题解
 
 - [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangle.java)
