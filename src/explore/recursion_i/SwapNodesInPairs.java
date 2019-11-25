@@ -1,5 +1,7 @@
 package explore.recursion_i;
 
+import base.ListNode;
+
 /**
  * @author :DengSiYuan
  * @date :2019/11/22 20:40
@@ -11,13 +13,7 @@ package explore.recursion_i;
  *      给定 1->2->3->4, 你应该返回 2->1->4->3.
  */
 
-class ListNode {
-     int val;
-     ListNode next;
-     ListNode(int x) {
-         val = x;
-     }
-}
+
 
 public class SwapNodesInPairs {
 
