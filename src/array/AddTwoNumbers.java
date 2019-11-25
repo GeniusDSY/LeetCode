@@ -1,5 +1,6 @@
 package array;
 
+import base.ListNode;
 /**
  * @author :DengSiYuan
  * @date :2019/9/25 22:39
@@ -14,12 +15,6 @@ package array;
  *      原因：342 + 465 = 807
  */
 public class AddTwoNumbers {
-
-    public class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) { val = x; }
-    }
 
     /**
      * 【想法】
