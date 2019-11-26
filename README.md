@@ -48,6 +48,7 @@
 - [15 3sum 三数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ThreeNum.java)
 - [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
+- [50 powx-n-by-leetcode Pow(x, n)](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PowxNByLeetcode.java)
 - [70 climbing-stairs 爬楼梯](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ClimbingStairs.java)
 - [104 maximum-depth-of-binary-tree 二叉树的最大深度](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/MaximumDepthOfBinaryTree.java)
 - [118 pascals-triangle 杨辉三角](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangle.java)
