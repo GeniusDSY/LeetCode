@@ -77,6 +77,7 @@
 - [697 degree-of-an-array 数组的度](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DegreeOfAnArray.java)
 - [766 toeplitz-matrix 托普利茨矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ToeplitzMatrix.java)
 - [771 jewels-and-stones 宝石与石头](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/JewelsAndStone.java)
+- [779 k-th-symbol-in-grammar 第K个语法符号](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/KThSymbolInGrammar.java)
 - [807 max-increase-to-keep-city-skyline 保持城市天际线](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaxIncreaseToKeepCitySkyline.java)
 - [832 flipping-an-image 翻转图像](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FlippingAnImage.java)
 - [862 shortest-subarray-with-sum-at-least-k 和至少为 K 的最短子数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ShortestSubArrayWithSumAtLeastK.java)

@@ -208,3 +208,4 @@ public class Main {
 - [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
 - [344 reverse-string 反转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseString.java)
 - [509 fibonacci-number 斐波那契数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/FibonacciNumber.java)
+- [779 k-th-symbol-in-grammar 第K个语法符号](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/KThSymbolInGrammar.java)
