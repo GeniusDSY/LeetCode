@@ -2,30 +2,30 @@
 
 ## 探索模块学习
 
-### [递归I](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归I)
+### [递归I](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归I)
 
-- [递归原理](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归原理)
-    - [递归原理内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归原理内容)
-    - [递归函数](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归函数)
+- [递归原理](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理)
+    - [递归原理内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理内容)
+    - [递归函数](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归函数)
 
-- [递推关系](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递推关系)
-     - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递推关系内容)
+- [递推关系](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系)
+     - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系内容)
 
-- [Memoization(记忆化)技术](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#memoization记忆化技术)
-    - [递归中的重复计算](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归中的重复计算)
-        - [记忆化](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#记忆化)
+- [Memoization(记忆化)技术](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#memoization记忆化技术)
+    - [递归中的重复计算](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归中的重复计算)
+        - [记忆化](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#记忆化)
         
-- [复杂度分析](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#复杂度分析)
+- [复杂度分析](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#复杂度分析)
 
-    - [递归——时间复杂度](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归——时间复杂度)
+    - [递归——时间复杂度](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归——时间复杂度)
 
-        - [执行树](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#执行树)
+        - [执行树](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#执行树)
 
-    - [递归——空间复杂度](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归——空间复杂度)
+    - [递归——空间复杂度](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归——空间复杂度)
 
-    - [尾调用](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#尾调用)
+    - [尾调用](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#尾调用)
 
-- [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore#递归题解)
+- [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归题解)
 
 
 
