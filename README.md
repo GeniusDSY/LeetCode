@@ -7,27 +7,23 @@
 - [递归原理](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理)
     - [递归原理内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归原理内容)
     - [递归函数](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归函数)
-
 - [递推关系](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系)
      - [递推关系内容](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递推关系内容)
-
 - [Memoization(记忆化)技术](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#memoization记忆化技术)
     - [递归中的重复计算](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归中的重复计算)
         - [记忆化](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#记忆化)
-        
 - [复杂度分析](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#复杂度分析)
-
     - [递归——时间复杂度](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归——时间复杂度)
-
-        - [执行树](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#执行树)
-
+    - [执行树](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#执行树)
     - [递归——空间复杂度](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归——空间复杂度)
-
     - [尾调用](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#尾调用)
-
 - [递归题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归题解)
 
+### [数组和字符串](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组和字符串)
 
+- [数组简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组简介)
+- [动态数组简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#动态数组简介)
+- [数组与字符串题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组与字符串题解)
 
 ### 题库
 
@@ -76,6 +72,7 @@
 - [654 maximum-binary-tree 最大二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaximumBinaryTree.java)
 - [661 image-smoother 图片平滑器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ImageSmoother.java)
 - [697 degree-of-an-array 数组的度](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DegreeOfAnArray.java)
+- [724 find-pivot-index 寻找数组的中心索引](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/FindPivotIndex.java)
 - [766 toeplitz-matrix 托普利茨矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ToeplitzMatrix.java)
 - [771 jewels-and-stones 宝石与石头](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/JewelsAndStone.java)
 - [779 k-th-symbol-in-grammar 第K个语法符号](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/KThSymbolInGrammar.java)
