@@ -46,6 +46,7 @@
 - [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
 - [50 powx-n-by-leetcode Pow(x, n)](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PowxNByLeetcode.java)
+- [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
 - [70 climbing-stairs 爬楼梯](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ClimbingStairs.java)
 - [95 unique-binary-search-trees-ii 不同的二叉搜索树II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/UniqueBinarySearchTreesII.java)
 - [104 maximum-depth-of-binary-tree 二叉树的最大深度](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/MaximumDepthOfBinaryTree.java)
