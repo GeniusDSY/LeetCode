@@ -19,4 +19,5 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 ## 数组与字符串题解
 
 - [724 find-pivot-index 寻找数组的中心索引](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/FindPivotIndex.java)
+- [747 largest-number-at-least-twice-of-others 至少是其他数字两倍的最大数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LargestNumberAtLeastTwiceOfOthers.java)
 

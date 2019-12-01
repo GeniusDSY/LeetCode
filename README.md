@@ -73,6 +73,7 @@
 - [661 image-smoother 图片平滑器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ImageSmoother.java)
 - [697 degree-of-an-array 数组的度](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DegreeOfAnArray.java)
 - [724 find-pivot-index 寻找数组的中心索引](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/FindPivotIndex.java)
+- [747 largest-number-at-least-twice-of-others 至少是其他数字两倍的最大数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LargestNumberAtLeastTwiceOfOthers.java)
 - [766 toeplitz-matrix 托普利茨矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ToeplitzMatrix.java)
 - [771 jewels-and-stones 宝石与石头](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/JewelsAndStone.java)
 - [779 k-th-symbol-in-grammar 第K个语法符号](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/KThSymbolInGrammar.java)
