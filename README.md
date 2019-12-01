@@ -24,6 +24,8 @@
 - [数组简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组简介)
 - [动态数组简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#动态数组简介)
 - [数组与字符串题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组与字符串题解)
+- [二维数组简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#二维数组简介)
+    - [存储结构](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#存储结构)
 
 ### 题库
 
@@ -65,6 +67,7 @@
 - [420 strong-password-checker 强密码检验器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/StrongPasswordChecker.java)
 - [448 find-all-numbers-disappeared-in-an-array 找到所有数组中消失的数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindAllNumbersDisappearedInAnArray.java)
 - [485 max-consecutive-ones 最大连续1的个数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaxConsecutiveOnes.java)
+- [498 diagonal-traverse 对角线遍历](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/DiagonalTraverse.java)
 - [509 fibonacci-number 斐波那契数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/FibonacciNumber.java)
 - [535 encode-and-decode-tinyurl TinyURL 的加密与解密](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/EncodeAndDecodeTinyUrl.java)
 - [561 array-partition-i 数组拆分I](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ArrayPartitionI.java)

@@ -16,9 +16,18 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 
 因此，大多数编程语言都提供内置的动态数组，它仍然是一个随机存取的列表数据结构，但大小是可变的。例如，在 C++ 中的 vector，以及在 Java 中的 ArrayList。
 
+## 二维数组简介
+
+类似于一维数组，二维数组也是由元素的序列组成。但是这些元素可以排列在矩形网格中而不是直线上。
+
+### 存储结构
+
+![mark](http://picture.geniusdsy.cn/picture/20191201/DyVYnpDPTOzf.png?imageslim)
+
 ## 数组与字符串题解
 
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
+- [498 diagonal-traverse 对角线遍历](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/DiagonalTraverse.java)
 - [724 find-pivot-index 寻找数组的中心索引](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/FindPivotIndex.java)
 - [747 largest-number-at-least-twice-of-others 至少是其他数字两倍的最大数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LargestNumberAtLeastTwiceOfOthers.java)
 
