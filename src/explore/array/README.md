@@ -26,6 +26,7 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 
 ## 数组与字符串题解
 
+- [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
 - [498 diagonal-traverse 对角线遍历](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/DiagonalTraverse.java)
 - [724 find-pivot-index 寻找数组的中心索引](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/FindPivotIndex.java)
