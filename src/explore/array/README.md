@@ -32,8 +32,25 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 
 ### 不可变字符串——问题和解决方案
 
+> 修改操作
+
+不可变字符串无法被修改。哪怕你只是想修改其中的一个字符，也必须创建一个新的字符串。
+
+> 字符串连接
+
+字符串连接有以下几种方式：
+
+- String创建的字符串（String a = "abc";a += "def";）
+- StringBuffer创建的字符串（StringBuffer a = new StringBuffer()"abc");a.append("def");）
+- StringBuilder创建的字符串（StringBuilder a = new StringBuilder("abc"); a.append("adf");）
+
+运行速度：StringBuilder > StringBuffer > String （除此之外，可以将字符串转化为字符数组来提高速度）
+
+线程安全：StringBuffer安全 StringBuilder不安全
+
 ## 数组与字符串题解
 
+- [28 implement-strstr 实现strStr()](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ImplementStrStr.java)
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
 - [67 add-binary 二进制求和](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/AddBinary.java)
