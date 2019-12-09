@@ -10,7 +10,7 @@
 
 index是数组的索引，从0开始蓝色框中是各个索引所对应的元素值。
 
-## 动态数组简介
+### 动态数组简介
 
 正如我们在上文中提到的，数组具有固定的容量，我们需要在初始化时指定数组的大小。有时它会非常不方便并可能造成浪费。
 
@@ -24,10 +24,19 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 
 ![mark](http://picture.geniusdsy.cn/picture/20191201/DyVYnpDPTOzf.png?imageslim)
 
+## 字符串简介
+
+字符串实际上是一个 unicode 字符数组。你可以执行几乎所有我们在数组中使用的操作，自己试试看吧。
+
+然而，二者之间还是存在一些区别。在这篇文章中，我们将介绍一些在处理字符串时应该注意的问题。这些特性在不同的语言之间可能有很大不同。
+
+### 不可变字符串——问题和解决方案
+
 ## 数组与字符串题解
 
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
+- [67 add-binary 二进制求和](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/AddBinary.java)
 - [498 diagonal-traverse 对角线遍历](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/DiagonalTraverse.java)
 - [724 find-pivot-index 寻找数组的中心索引](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/FindPivotIndex.java)
 - [747 largest-number-at-least-twice-of-others 至少是其他数字两倍的最大数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LargestNumberAtLeastTwiceOfOthers.java)

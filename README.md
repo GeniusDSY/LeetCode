@@ -22,10 +22,13 @@
 ### [数组和字符串](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组和字符串)
 
 - [数组简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组简介)
-- [动态数组简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#动态数组简介)
-- [数组与字符串题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组与字符串题解)
+    - [动态数组简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#动态数组简介)
 - [二维数组简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#二维数组简介)
     - [存储结构](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#存储结构)
+- [字符串简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#字符串简介)
+    - [不可变字符串——问题和解决方案](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#不可变字符串——问题和解决方案)
+- [数组与字符串题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组与字符串题解)
+
 
 ### 题库
 
@@ -50,6 +53,7 @@
 - [50 powx-n-by-leetcode Pow(x, n)](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PowxNByLeetcode.java)
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
+- [67 add-binary 二进制求和](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/AddBinary.java)
 - [70 climbing-stairs 爬楼梯](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ClimbingStairs.java)
 - [95 unique-binary-search-trees-ii 不同的二叉搜索树II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/UniqueBinarySearchTreesII.java)
 - [104 maximum-depth-of-binary-tree 二叉树的最大深度](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/MaximumDepthOfBinaryTree.java)
