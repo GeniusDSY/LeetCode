@@ -45,7 +45,7 @@
 - [11 container-with-most-water](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ContainerWithMostWater.java)
 - [12 integer-to-roman](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/IntegerToRoman.java)
 - [13 roman-to-integer](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RomanToInteger.java)
-- [14 longest-common-prefix](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestCommonPrefix.java)
+- [14 longest-common-prefix 最长公共前缀](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LongestCommonPrefix.java)
 - [15 3sum 三数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ThreeNum.java)
 - [21 merge-two-sorted-lists 合并两个有序链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/MergeTwoSortedLists.java)
 - [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)

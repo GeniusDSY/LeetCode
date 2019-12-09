@@ -50,6 +50,7 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 
 ## 数组与字符串题解
 
+- [14 longest-common-prefix 最长公共前缀](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LongestCommonPrefix.java)
 - [28 implement-strstr 实现strStr()](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ImplementStrStr.java)
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
