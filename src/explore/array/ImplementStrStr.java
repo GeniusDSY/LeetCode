@@ -37,7 +37,7 @@ public class ImplementStrStr {
                 FSM[i][j] = FSM[X][j];
             }
             FSM[i][match] = i + 1;
-            if (i > 1) {
+            if (i > 0) {
                 // 下一孪生前缀状态 = X + match
                 X = FSM[X][match];
             }
