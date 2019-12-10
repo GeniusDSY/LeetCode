@@ -1,4 +1,4 @@
-package array;
+package explore.array;
 
 /**
  * @author :DengSiYuan
