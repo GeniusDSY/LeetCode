@@ -1,4 +1,4 @@
-package array;
+package explore.array;
 
 /**
  * @author :DengSiYuan
@@ -16,11 +16,11 @@ package array;
 public class RemoveElement {
 
     /**
-     * 【想法】
+     * 【想法】 快慢指针
      *      遍历数组，当遇到数组中元素不等于指定元素的时候，就将他从原数组0的位置开始覆盖赋值
-     * @param nums
-     * @param val
-     * @return
+     * 【复杂度分析】
+     *      时间复杂度：O(N)
+     *      空间复杂度：O(1)
      */
     public int removeElement(int[] nums, int val) {
         int i = 0;

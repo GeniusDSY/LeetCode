@@ -29,6 +29,7 @@
     - [不可变字符串——问题和解决方案](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#不可变字符串——问题和解决方案)
 - [双指针技巧](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#双指针技巧)
     - [双指针技巧——情景一](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#双指针技巧——情景一)
+    - [双指针技巧——情景二](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#双指针技巧——情景二)
     - [双指针使用场景总结](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#双指针使用场景总结)
 - [数组与字符串题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组与字符串题解)
 
@@ -52,7 +53,7 @@
 - [15 3sum 三数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ThreeNum.java)
 - [21 merge-two-sorted-lists 合并两个有序链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/MergeTwoSortedLists.java)
 - [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
-- [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RemoveElement.java)
+- [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RemoveElement.java)
 - [28 implement-strstr 实现strStr()](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ImplementStrStr.java)
 - [50 powx-n-by-leetcode Pow(x, n)](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PowxNByLeetcode.java)
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)

@@ -54,13 +54,28 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 
 在前一章中，我们通过迭代数组来解决一些问题。通常，我们只使用从第一个元素开始并在最后一个元素结束的一个指针来进行迭代。 但是，有时候，我们可能需要同时使用两个指针来进行迭代。
 
+### 双指针技巧——情景二
+
+有时，我们可以使用两个不同步的指针来解决问题。
+
+让我们从另一个经典问题开始：
+
+> 给定一个数组和一个值，原地删除该值的所有实例并返回新的长度。
+
+如果我们没有空间复杂度上的限制，那就更容易了。我们可以初始化一个新的数组来存储答案。如果元素不等于给定的目标值，则迭代原始数组并将元素添加到新的数组中。
+
+实际上，它相当于使用了两个指针，一个用于原始数组的迭代，另一个总是指向新数组的最后一个位置。
+
+即就是遍历原数组，遇到不是所要删除的元素才对填充位置的索引进行++操作
+
 ### 双指针使用场景总结
 
-总之，使用双指针技巧的典型场景之一是你想要**从两端向中间迭代数组**、**从中间向两端进行遍历**。
+总之，使用双指针技巧的典型场景之一是你想要**从两端向中间迭代数组**、**从中间向两端进行遍历**。另，若你需要一个指针先行“探路”，那么你用得上**快慢指针**。
 
 ## 数组与字符串题解
 
 - [14 longest-common-prefix 最长公共前缀](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LongestCommonPrefix.java)
+- [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RemoveElement.java)
 - [28 implement-strstr 实现strStr()](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ImplementStrStr.java)
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
