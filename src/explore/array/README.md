@@ -48,6 +48,16 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 
 线程安全：StringBuffer安全 StringBuilder不安全
 
+## 双指针技巧
+
+### 双指针技巧——情景一
+
+在前一章中，我们通过迭代数组来解决一些问题。通常，我们只使用从第一个元素开始并在最后一个元素结束的一个指针来进行迭代。 但是，有时候，我们可能需要同时使用两个指针来进行迭代。
+
+### 双指针使用场景总结
+
+总之，使用双指针技巧的典型场景之一是你想要**从两端向中间迭代数组**、**从中间向两端进行遍历**。
+
 ## 数组与字符串题解
 
 - [14 longest-common-prefix 最长公共前缀](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LongestCommonPrefix.java)
@@ -56,6 +66,7 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
 - [67 add-binary 二进制求和](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/AddBinary.java)
 - [498 diagonal-traverse 对角线遍历](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/DiagonalTraverse.java)
+- [561 array-partition-i 数组拆分I](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ArrayPartitionI.java)
 - [724 find-pivot-index 寻找数组的中心索引](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/FindPivotIndex.java)
 - [747 largest-number-at-least-twice-of-others 至少是其他数字两倍的最大数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LargestNumberAtLeastTwiceOfOthers.java)
 
