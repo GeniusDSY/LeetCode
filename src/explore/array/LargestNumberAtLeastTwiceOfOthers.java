@@ -91,7 +91,7 @@ public class LargestNumberAtLeastTwiceOfOthers {
             secondIndex = 1;
         }
         //经过一次遍历后找到最大值、第二大值的索引
-        for (int i = 0; i < nums.length; i++) {
+        for (int i = 2; i < nums.length; i++) {
             if (nums[i] > nums[maxIndex]){
                 secondIndex = maxIndex;
                 maxIndex = i;
