@@ -69,6 +69,7 @@
 - [167 two-sum-ii-input-array-is-sorted 两数之和 II - 输入有序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/TwoSumIIInputArrayIsSorted.java) 
 - [169 majority-element 求众数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MajorityElement.java)
 - [182 duplicate-emails 查找重复的电子邮箱](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateEmails.sql)
+- [189 rotate-array 旋转数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RotateArray.java)
 - [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
 - [209 minimum-size-subarray-sum 长度最小的子数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MinimumSizeSubArraySum.java)
 - [217 contains-duplicat 存在重复元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ContainsDuplicat.java)
