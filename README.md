@@ -1,4 +1,14 @@
-# LeetCode算法学习
+<p align="center"><img alt="GeekTom | Blog" src="http://picture.geniusdsy.cn/picture/20191221/CPE64XappqoW.png?imageslim"></p>
+<h2 align="center">LeetCode算法学习</h2>
+<h4 align="center">Rome was not built in one day</h4>
+<p align="center">
+    <a title="LeetCode算法学习" target="_blank" href="https://github.com/GeniusDSY/LeetCode">
+        <img src="https://img.shields.io/github/last-commit/GeniusDSY/LeetCode.svg?style=flat-square&color=FF9900">
+    </a>
+    <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/GeniusDSY/LeetCode">
+        <img src="https://img.shields.io/github/repo-size/GeniusDSY/LeetCode.svg?style=flat-square">
+    </a>
+</p>
 
 ## 探索模块学习
 
@@ -33,6 +43,10 @@
     - [双指针使用场景总结](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#双指针使用场景总结)
 - [数组与字符串题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/array#数组与字符串题解)
 
+### [链表](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#链表)
+- [单链表](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#单链表)
+    - [简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#简介)
+    - [定义与结构](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#定义与结构)
 
 ### 题库
 
