@@ -1,4 +1,4 @@
-<p align="center"><img alt="GeekTom | Blog" src="http://picture.geniusdsy.cn/picture/20191221/CPE64XappqoW.png?imageslim"></p>
+<p align="center"><img style="width=15vw" alt="LeetCode算法学习" src="http://picture.geniusdsy.cn/picture/20191221/CPE64XappqoW.png?imageslim"></p>
 <h2 align="center">LeetCode算法学习</h2>
 <h4 align="center">Rome was not built in one day</h4>
 <p align="center">
