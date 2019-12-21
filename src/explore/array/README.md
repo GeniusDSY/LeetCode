@@ -81,6 +81,7 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
 - [67 add-binary 二进制求和](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/AddBinary.java)
+- [80 remove-duplicates-from-sorted-array-ii 删除排序数组中的重复项II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/RemoveDuplicatesFromSortedArrayII.java)
 - [151 reverse-words-in-a-string 翻转字符串里的单词](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ReverseWordsInAString.java)
 - [167 two-sum-ii-input-array-is-sorted 两数之和 II - 输入有序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/TwoSumIIInputArrayIsSorted.java)
 - [189 rotate-array 旋转数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RotateArray.java)
