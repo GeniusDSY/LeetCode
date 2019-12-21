@@ -78,7 +78,7 @@
 - [217 contains-duplicat 存在重复元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ContainsDuplicat.java)
 - [237 delete-node-in-a-linked-list 删除链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DeleteNodeInALinkedList.java)
 - [268 missing-number](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MissingNumber.java)
-- [283 move-zeroes 移动零](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MoveZeroes.java)
+- [283 move-zeroes 移动零](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MoveZeroes.java)
 - [420 strong-password-checker 强密码检验器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/StrongPasswordChecker.java)
 - [448 find-all-numbers-disappeared-in-an-array 找到所有数组中消失的数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindAllNumbersDisappearedInAnArray.java)
 - [485 max-consecutive-ones 最大连续1的个数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MaxConsecutiveOnes.java)
