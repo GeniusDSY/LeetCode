@@ -106,6 +106,7 @@
 - [654 maximum-binary-tree 最大二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MaximumBinaryTree.java)
 - [661 image-smoother 图片平滑器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ImageSmoother.java)
 - [697 degree-of-an-array 数组的度](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DegreeOfAnArray.java)
+- [707 design-linked-list 设计链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignLinkedList.java)
 - [724 find-pivot-index 寻找数组的中心索引](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/FindPivotIndex.java)
 - [747 largest-number-at-least-twice-of-others 至少是其他数字两倍的最大数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LargestNumberAtLeastTwiceOfOthers.java)
 - [766 toeplitz-matrix 托普利茨矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ToeplitzMatrix.java)
