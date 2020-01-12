@@ -46,7 +46,10 @@
 ### [链表](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#链表)
 - [单链表](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#单链表)
     - [简介](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#简介)
-    - [定义与结构](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#定义与结构)
+        - [定义与结构](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#定义与结构)
+        - [操作](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#操作)
+- [双指针技巧(链表)](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#双指针技巧(链表))
+- [链表题解](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/linked_list#链表题解)
 
 ### 题库
 
@@ -82,6 +85,7 @@
 - [119 pascals-triangle-ii 杨辉三角II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangleII.java)
 - [121 best-time-to-buy-and-sell-stock 买卖股票的最佳时机](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStock.java)
 - [122 best-time-to-buy-and-sell-stock-ii 买卖股票的最佳时机II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStockII.java)
+- [141 linked-list-cycle 环形链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycle.java)
 - [151 reverse-words-in-a-string 翻转字符串里的单词](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ReverseWordsInAStriging.java)
 - [167 two-sum-ii-input-array-is-sorted 两数之和 II - 输入有序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/TwoSumIIInputArrayIsSorted.java) 
 - [169 majority-element 求众数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MajorityElement.java)

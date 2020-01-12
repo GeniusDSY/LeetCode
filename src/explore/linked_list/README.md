@@ -60,11 +60,17 @@
 链表从头结点开始，因此结点 23 不再在我们的链表中。
 
 ## 双指针技巧(链表)
+这正是我们在链表中使用两个速度不同的指针时会遇到的情况：
 
+如果没有环，快指针将停在链表的末尾。
+如果有环，快指针最终将与慢指针相遇。
+> 这两个指针的适当速度应该是多少？
+
+一个安全的选择是每次移动慢指针一步，而移动快指针两步。每一次迭代，快速指针将额外移动一步。如果环的长度为 M，经过 M 次迭代后，快指针肯定会多绕环一周，并赶上慢指针。
 ## 经典问题
 
 ## 双链表
 
 ## 链表题解
-
+- [141 linked-list-cycle 环形链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycle.java)
 - [707 design-linked-list 设计链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignLinkedList.java)
