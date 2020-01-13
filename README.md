@@ -86,6 +86,7 @@
 - [121 best-time-to-buy-and-sell-stock 买卖股票的最佳时机](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStock.java)
 - [122 best-time-to-buy-and-sell-stock-ii 买卖股票的最佳时机II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStockII.java)
 - [141 linked-list-cycle 环形链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycle.java)
+- [142 linked-list-cycle-ii 环形链表II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycleII.java)
 - [151 reverse-words-in-a-string 翻转字符串里的单词](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ReverseWordsInAStriging.java)
 - [167 two-sum-ii-input-array-is-sorted 两数之和 II - 输入有序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/TwoSumIIInputArrayIsSorted.java) 
 - [169 majority-element 求众数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MajorityElement.java)
