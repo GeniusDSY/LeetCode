@@ -88,6 +88,7 @@
 - [141 linked-list-cycle 环形链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycle.java)
 - [142 linked-list-cycle-ii 环形链表II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycleII.java)
 - [151 reverse-words-in-a-string 翻转字符串里的单词](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ReverseWordsInAStriging.java)
+- [160 intersection-of-two-linked-lists 相交链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/IntersectionOfTwoLinkedLists.java)
 - [167 two-sum-ii-input-array-is-sorted 两数之和 II - 输入有序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/TwoSumIIInputArrayIsSorted.java) 
 - [169 majority-element 求众数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MajorityElement.java)
 - [182 duplicate-emails 查找重复的电子邮箱](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateEmails.sql)

@@ -74,4 +74,5 @@
 ## 链表题解
 - [141 linked-list-cycle 环形链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycle.java)
 - [142 linked-list-cycle-ii 环形链表II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycleII.java)
+- [160 intersection-of-two-linked-lists 相交链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/IntersectionOfTwoLinkedLists.java)
 - [707 design-linked-list 设计链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignLinkedList.java)
