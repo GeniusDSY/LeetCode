@@ -98,4 +98,5 @@
 - [160 intersection-of-two-linked-lists 相交链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/IntersectionOfTwoLinkedLists.java)
 - [203 remove-linked-list-elements 移除链表元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/RemoveLinkedListElements.java)
 - [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
+- [328 odd-even-linked-list 奇偶链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/OddEvenLinkedList.java)
 - [707 design-linked-list 设计链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignLinkedList.java)
