@@ -67,6 +67,26 @@
 > 这两个指针的适当速度应该是多少？
 
 一个安全的选择是每次移动慢指针一步，而移动快指针两步。每一次迭代，快速指针将额外移动一步。如果环的长度为 M，经过 M 次迭代后，快指针肯定会多绕环一周，并赶上慢指针。
+
+### 注意事项
+
+1. 在调用 next 字段之前，始终检查节点是否为空。
+获取空节点的下一个节点将导致空指针错误。例如，在我们运行 fast = fast.next.next 之前，需要检查 fast 和 fast.next 不为空。
+2. 仔细定义循环的结束条件。
+
+### 复杂度分析
+
+复杂度分析
+空间复杂度分析容易。如果只使用指针，而不使用任何其他额外的空间，那么空间复杂度将是 O(1)。但是，时间复杂度的分析比较困难。为了得到答案，我们需要分析运行循环的次数。
+
+在前面的查找循环示例中，假设我们每次移动较快的指针 2 步，每次移动较慢的指针 1 步。
+
+- 如果没有循环，快指针需要 N/2 次才能到达链表的末尾，其中 N 是链表的长度。
+- 如果存在循环，则快指针需要 M 次才能赶上慢指针，其中 M 是列表中循环的长度。
+显然，M <= N 。所以我们将循环运行 N 次。对于每次循环，我们只需要常量级的时间。因此，该算法的时间复杂度总共为 O(N)。
+
+自己分析其他问题以提高分析能力。别忘了考虑不同的条件。如果很难对所有情况进行分析，请考虑最糟糕的情况。
+
 ## 经典问题
 
 ## 双链表
@@ -76,4 +96,6 @@
 - [141 linked-list-cycle 环形链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycle.java)
 - [142 linked-list-cycle-ii 环形链表II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycleII.java)
 - [160 intersection-of-two-linked-lists 相交链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/IntersectionOfTwoLinkedLists.java)
+- [203 remove-linked-list-elements 移除链表元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/RemoveLinkedListElements.java)
+- [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
 - [707 design-linked-list 设计链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignLinkedList.java)
