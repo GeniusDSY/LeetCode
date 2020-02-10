@@ -10,6 +10,13 @@
     </a>
 </p>
 
+## 基础结构及算法
+
+### 基础结构
+
+- [链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_structure/ListNode.java)
+- [二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_structure/TreeNode.java)
+
 ## 探索模块学习
 
 ### [递归I](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归I)
