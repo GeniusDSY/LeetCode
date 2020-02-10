@@ -1,6 +1,6 @@
 package explore.linked_list;
 
-import base.ListNode;
+import base.base_structure.ListNode;
 
 import java.util.Stack;
 
