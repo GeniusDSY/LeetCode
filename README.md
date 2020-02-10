@@ -17,6 +17,17 @@
 - [链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_structure/ListNode.java)
 - [二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_structure/TreeNode.java)
 
+### 基础算法
+
+#### 排序算法
+
+- [冒泡排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/BubbleSort.java)
+- [选择排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/SelectSort.java)
+- [快速排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/QuickSort.java)
+- [插入排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/InsertSort.java)
+- [归并排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/MergeSort.java)
+- [希尔排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/ShellSort.java)
+
 ## 探索模块学习
 
 ### [递归I](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归I)
