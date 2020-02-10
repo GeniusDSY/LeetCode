@@ -1,4 +1,4 @@
-package base;
+package base.base_structure;
 
 /**
  * @author :DengSiYuan
