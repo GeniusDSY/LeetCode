@@ -1,6 +1,6 @@
 package explore.recursion_i;
 
-import base.ListNode;
+import base.base_structure.ListNode;
 
 /**
  * @author :DengSiYuan
