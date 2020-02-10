@@ -26,5 +26,4 @@ public class InsertSort {
             numbers[j] = temp;
         }
     }
-
 }
