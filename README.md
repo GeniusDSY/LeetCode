@@ -1,4 +1,4 @@
-<p align="center"><img style="width:15vw" alt="LeetCode算法学习" src="http://picture.geniusdsy.cn/picture/20191224/jRY4roXms16J.svg"></p>
+<p align="center"><a href="https://leetcode-cn.com/" target="_blank"><img style="width:15vw" alt="LeetCode算法学习" src="http://picture.geniusdsy.cn/picture/20191224/jRY4roXms16J.svg"></a></p>
 <h2 align="center">LeetCode算法学习</h2>
 <h4 align="center">Rome was not built in one day</h4>
 <p align="center">
