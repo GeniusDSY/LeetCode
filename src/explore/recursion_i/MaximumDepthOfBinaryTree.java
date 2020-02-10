@@ -1,6 +1,6 @@
 package explore.recursion_i;
 
-import base.TreeNode;
+import base.base_structure.TreeNode;
 import javafx.util.Pair;
 
 import java.util.LinkedList;
