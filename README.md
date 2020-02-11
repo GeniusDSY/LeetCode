@@ -27,6 +27,7 @@
 - [插入排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/InsertSort.java)
 - [归并排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/MergeSort.java)
 - [希尔排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/ShellSort.java)
+- [堆排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/HeapSort.java)
 
 ## 探索模块学习
 
