@@ -29,6 +29,11 @@
 - [希尔排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/ShellSort.java)
 - [堆排序](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/sort_function/HeapSort.java)
 
+#### 搜索算法
+
+- [深度优先搜索](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/DepthFirstSearch.java)
+- [广度优先搜索](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_algorithm/BroadFirstSearch.java)
+
 ## 探索模块学习
 
 ### [递归I](https://github.com/GeniusDSY/LeetCode/tree/master/src/explore/recursion_i#递归I)
