@@ -1,6 +1,6 @@
 package array;
 
-import base.ListNode;
+import base.base_structure.ListNode;
 /**
  * @author :DengSiYuan
  * @date :2019/9/25 22:39
