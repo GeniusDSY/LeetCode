@@ -169,6 +169,7 @@
 - [1160 find-words-that-can-be-formed-by-characters 拼写单词](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindWordsThatCanBeFormedByCharacters.java)
 - [1170 compare-strings-by-frequency-of-the-smallest-character 比较字符串最小字母出现频次 ](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/CompareStringsByFrequencyOfTheSmallestCharacter.java)
 - [1221 split-a-string-in-balanced-strings 分割平衡字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SplitAStringInBalancedStrings.java)
+- [1342 number-of-steps-to-reduce-a-number-to-zero 将数字变成 0 的操作次数](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/NumberOfStepsToReduceANumberToZero.java)
 - [LCP1 guess-numbers 猜数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/GuessNumbers.java) 
 
 ### others 偶遇其他算法题 
