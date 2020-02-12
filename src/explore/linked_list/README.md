@@ -89,7 +89,33 @@
 
 ## 经典问题
 
+- 1.通过一些测试用例可以节省您的时间。
+
+使用链表时不易调试。因此，在编写代码之前，自己尝试几个不同的示例来验证您的算法总是很有用的。
+
+- 2.你可以同时使用多个指针。
+
+有时，当你为链表问题设计算法时，可能需要同时跟踪多个结点。您应该记住需要跟踪哪些结点，并且可以自由地使用几个不同的结点指针来同时跟踪这些结点。
+
+如果你使用多个指针，最好为它们指定适当的名称，以防将来必须调试或检查代码。
+
+- 3.在许多情况下，你需要跟踪当前结点的前一个结点。
+
+你无法追溯单链表中的前一个结点。因此，您不仅要存储当前结点，还要存储前一个结点。这在双链表中是不同的，我们将在后面的章节中介绍。
+
 ## 双链表
+
+### 添加操作
+
+- 链接 cur 与 prev 和 next，其中 next 是 prev 原始的下一个节点；
+- 用 cur 重新链接 prev 和 next。
+
+与单链表类似，添加操作的时间和空间复杂度都是 O(1)。
+
+### 删除操作
+
+- cur.pre.next = cur.next;
+- cur.next.pre = cur.pre;
 
 ## 链表题解
 - [19 remove-nth-node-from-end-of-list 删除链表的倒数第N个节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/RemoveNthNodeFromEndOfList.java)
@@ -100,4 +126,5 @@
 - [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
 - [234 palindrome-linked-list 回文链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/PalindromeLinkedList.java)
 - [328 odd-even-linked-list 奇偶链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/OddEvenLinkedList.java)
-- [707 design-linked-list 设计链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignLinkedList.java)
+- [707 design-linked-list 设计链表(单链表)](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignLinkedList.java)
+- [707 design-linked-list 设计链表(双链表)](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignDoubleLinkedList.java)
