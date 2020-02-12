@@ -28,7 +28,7 @@ public class PalindromeLinkedList {
      * 【复杂度分析】
      *      时间复杂度：O(n)，其中 n 指的是链表的元素个数。
      *          第一步： 遍历链表并将值复制到数组中，O(n)。
-     *          第二步：双指针判断是否为回文，执行了 O(n/2) 次的判断，即 O(n)O(n)。
+     *          第二步：双指针判断是否为回文，执行了 O(n/2) 次的判断，即 O(n)。
      *          总的时间复杂度：O(n)。
      *      空间复杂度：O(n)，其中 nn 指的是链表的元素个数，我们使用了一个数组列表存放链表的元素值。
      */
@@ -72,7 +72,6 @@ public class PalindromeLinkedList {
      * 【解法二】    递归
      *      currentNode 指针是先到尾节点，由于递归的特性再从后往前进行比较。frontPointer 是递归函数外的指针。
      *      若 currentNode.val != frontPointer.val 则返回 false。反之，frontPointer 向前移动并返回 true。
-     *
      *      之所以起作用的原因是递归处理节点的顺序是相反的（记住上面打印的算法）。由于递归，从本质上，我们同时在正向和逆向迭代。
      * 【复杂度分析】
      *      时间复杂度：O(n)，其中 n 指的是链表的大小。
