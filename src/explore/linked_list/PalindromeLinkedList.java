@@ -119,7 +119,6 @@ public class PalindromeLinkedList {
         return result;
     }
 
-    // Taken from https://leetcode.com/problems/reverse-linked-list/solution/
     private ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
