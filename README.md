@@ -78,7 +78,7 @@
 ### 题库
 
 - [1 two-sum 两数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TwoSum.java)
-- [2 add-two-numbers 两数相加](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/AddTwoNumbers.java)
+- [2 add-two-numbers 两数相加](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/AddTwoNumbers.java)
 - [3 longest-substring-without-repeating-characters 无重复字符的最长子串](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestSubstringWithoutRepeatingCharacters.java)
 - [4 median-of-two-sorted-arrays 寻找两个有序数组的中位数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MedianOfTwoSortedArrays.java)
 - [5 longest-palindromic-substring 最长回文子串](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/LongestPalindromicSubstring.java)
@@ -92,7 +92,7 @@
 - [13 roman-to-integer 罗马数字转整数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RomanToInteger.java)
 - [14 longest-common-prefix 最长公共前缀](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LongestCommonPrefix.java)
 - [15 3sum 三数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ThreeNum.java)
-- [19 remove-nth-node-from-end-of-list 删除链表的倒数第N个节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/RemoveNthNodeFromEndOfList.java)
+- [19 remove-nth-node-from-end-of-list 删除链表的倒数第N个节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/RemoveNthNodeFromEndOfList.java)
 - [21 merge-two-sorted-lists 合并两个有序链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/MergeTwoSortedLists.java)
 - [24 swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/SwapNodesInPairs.java)
 - [26 remove-duplicates-from-sorted-array 删除排序数组中的重复项](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/RemoveDuplicatesFromSortedArray.java)

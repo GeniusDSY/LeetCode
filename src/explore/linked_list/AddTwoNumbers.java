@@ -1,4 +1,4 @@
-package array;
+package explore.linked_list;
 
 import base.base_structure.ListNode;
 /**
