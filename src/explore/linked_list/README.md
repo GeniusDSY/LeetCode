@@ -128,5 +128,6 @@
 - [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
 - [234 palindrome-linked-list 回文链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/PalindromeLinkedList.java)
 - [328 odd-even-linked-list 奇偶链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/OddEvenLinkedList.java)
+- [430 flatten-a-multilevel-doubly-linked-list 扁平化多级双向链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/FlattenAMultilevelDoublyLinkedList.java)
 - [707 design-linked-list 设计链表(单链表)](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignLinkedList.java)
 - [707 design-linked-list 设计链表(双链表)](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/DesignDoubleLinkedList.java)

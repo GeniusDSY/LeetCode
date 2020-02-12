@@ -15,6 +15,8 @@
 ### 基础结构
 
 - [链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_structure/ListNode.java)
+- [双向链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_structure/DoubleListNode.java)
+- [多级双向链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_structure/MultiLevelDoubleListNode.java)
 - [二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/base/base_structure/TreeNode.java)
 
 ### 基础算法
@@ -128,6 +130,7 @@
 - [283 move-zeroes 移动零](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MoveZeroes.java)
 - [328 odd-even-linked-list 奇偶链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/OddEvenLinkedList.java)
 - [420 strong-password-checker 强密码检验器](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/StrongPasswordChecker.java)
+- [430 flatten-a-multilevel-doubly-linked-list 扁平化多级双向链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/FlattenAMultilevelDoublyLinkedList.java)
 - [448 find-all-numbers-disappeared-in-an-array 找到所有数组中消失的数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FindAllNumbersDisappearedInAnArray.java)
 - [485 max-consecutive-ones 最大连续1的个数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MaxConsecutiveOnes.java)
 - [498 diagonal-traverse 对角线遍历](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/DiagonalTraverse.java)
