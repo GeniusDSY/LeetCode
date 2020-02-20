@@ -175,7 +175,8 @@
 
 ### [sword_finger_offer 剑指Offer](https://github.com/GeniusDSY/LeetCode/tree/master/src/sword_finger_offer#剑指Offer)
 
-- [面试题17.打印从1到最大的n位数](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/PrintNDigitsFrom1ToMax.java)
+- [面试题05.替换空格](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ReplaceSpaces.java)
+- [面试题17.打印从1到最大的n位数](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/printNDigitsFrom1ToMax.java)
 - [面试题58 - II.左旋转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ReverseLeftWords.java)
 
 ### others 偶遇其他算法题 
