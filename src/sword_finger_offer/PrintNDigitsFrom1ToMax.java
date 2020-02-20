@@ -13,7 +13,7 @@ package sword_finger_offer;
  *      用返回一个整数列表来代替打印
  *      n 为正整数
  */
-public class printNDigitsFrom1ToMax {
+public class PrintNDigitsFrom1ToMax {
 
     public int[] printNumbers(int n) {
         int max = 9;
