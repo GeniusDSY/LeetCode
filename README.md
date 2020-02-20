@@ -173,6 +173,10 @@
 - [1342 number-of-steps-to-reduce-a-number-to-zero 将数字变成 0 的操作次数](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/NumberOfStepsToReduceANumberToZero.java)
 - [LCP1 guess-numbers 猜数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/GuessNumbers.java) 
 
+### [sword_finger_offer 剑指Offer](https://github.com/GeniusDSY/LeetCode/tree/master/src/sword_finger_offer#剑指Offer)
+
+- [面试题58 - II.左旋转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ReverseLeftWords.java)
+
 ### others 偶遇其他算法题 
 
 - [【小米2019校招】 MinimumPath 最小路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MinimumPath.java) 
