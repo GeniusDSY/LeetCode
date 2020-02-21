@@ -181,9 +181,10 @@
 - [面试题06.从尾到头打印链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/PrintLinkedListFromEndToEnd.java)
 - [面试题07.重建二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/RebuildTheBinaryTree.java)
 - [面试题09.用两个栈实现队列](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ImplementingAQueueWithTwoStacks.java)
+- [面试题10-I.斐波那契数列](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/FibonacciNumber.java)
 - [面试题17.打印从1到最大的n位数](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/printNDigitsFrom1ToMax.java)
 - [面试题27.二叉树的镜像](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MirrorTree.java)
-- [面试题58 - II.左旋转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ReverseLeftWords.java)
+- [面试题58-II.左旋转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ReverseLeftWords.java)
 
 ### others 偶遇其他算法题 
 
