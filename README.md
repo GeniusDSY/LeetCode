@@ -188,6 +188,7 @@
 - [面试题13.机器人的运动范围](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/RobotSRangeOfMotion.java)
 - [面试题14-I.剪绳子](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/CuttingRope.java)
 - [面试题14-II.剪绳子](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/CuttingRopeII.java)
+- [面试题15.二进制中1的个数](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/TheNumberOf1sInBinary.java)
 - [面试题17.打印从1到最大的n位数](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/PrintNDigitsFrom1ToMax.java)
 - [面试题27.二叉树的镜像](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MirrorTree.java)
 - [面试题58-II.左旋转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ReverseLeftWords.java)
