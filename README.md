@@ -103,6 +103,7 @@
 - [50 powx-n-by-leetcode Pow(x, n)](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PowxNByLeetcode.java)
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
+- [61 rotate-list 旋转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/RotateList.java)
 - [67 add-binary 二进制求和](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/AddBinary.java)
 - [70 climbing-stairs 爬楼梯](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ClimbingStairs.java)
 - [80 remove-duplicates-from-sorted-array-ii 删除排序数组中的重复项II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/RemoveDuplicatesFromSortedArrayII.java)
