@@ -44,9 +44,6 @@ public class RotateArray {
                 nums[(i + k) % nums.length] = temp[i];
             }
         }
-        for (int num : nums) {
-            System.out.print(num);
-        }
     }
 
     /**
@@ -65,9 +62,6 @@ public class RotateArray {
                 nums[j] = previous;
                 previous = temp;
             }
-        }
-        for (int num : nums) {
-            System.out.print(num);
         }
     }
 
@@ -106,9 +100,6 @@ public class RotateArray {
                 count++;
             } while (start != current);
         }
-        for (int num : nums) {
-            System.out.print(num);
-        }
     }
 
     /**
@@ -129,9 +120,6 @@ public class RotateArray {
         reverse(nums, 0, nums.length - 1);
         reverse(nums, 0, k - 1);
         reverse(nums, k, nums.length - 1);
-        for (int num : nums) {
-            System.out.print(num);
-        }
     }
 
     private static void reverse(int[] nums, int left, int right) {
@@ -141,18 +129,6 @@ public class RotateArray {
             nums[right--] = temp;
             reverse(nums, left, right);
         }
-    }
-
-
-    public static void main(String[] args) {
-        RotateArray a = new RotateArray();
-        a.rotate1(new int[]{1,2,3,4,5,6,7},3);
-        System.out.println();
-        a.rotate2(new int[]{1,2,3,4,5,6,7},3);
-        System.out.println();
-        a.rotate3(new int[]{1,2,3,4,5,6,7},3);
-        System.out.println();
-        a.rotate4(new int[]{1,2,3,4,5,6,7},3);
     }
 
 }
