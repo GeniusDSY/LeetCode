@@ -1,4 +1,4 @@
-package array;
+package explore.array;
 
 /**
  * @author :DengSiYuan
@@ -25,6 +25,7 @@ public class BestTimeToBuyAndSellStockII {
      * @return
      * 【复杂度分析】
      *      时间复杂度：O(N)
+     *      空间复杂度：O(1)
      */
     public int maxProfit(int[] prices) {
         int profit = 0;
@@ -32,15 +33,5 @@ public class BestTimeToBuyAndSellStockII {
             profit += prices[i + 1] - prices[i] > 0 ? prices[i + 1] - prices[i] : 0;
         }
         return profit;
-    }
-
-    public static void main(String[] args) {
-        int[] arr = new int[]{7,1,5,3,6,4};
-        BestTimeToBuyAndSellStockII stock = new BestTimeToBuyAndSellStockII();
-        long start = System.nanoTime();
-        int result = stock.maxProfit(arr);
-        long end = System.nanoTime();
-        System.out.println("运行时间：" + (end - start) / 1000000.0 + "ms");
-        System.out.println(result);
     }
 }
