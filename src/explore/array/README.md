@@ -75,7 +75,7 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 ## 数组与字符串题解
 
 - [14 longest-common-prefix 最长公共前缀](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LongestCommonPrefix.java)
-- [26 remove-duplicates-from-sorted-array 删除排序数组中的重复项](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/RemoveDuplicatesFromSortedArray.java)
+- [26 remove-duplicates-from-sorted-array 删除排序数组中的重复项](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RemoveDuplicatesFromSortedArray.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RemoveElement.java)
 - [28 implement-strstr 实现strStr()](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ImplementStrStr.java)
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
