@@ -125,7 +125,7 @@
 - [203 remove-linked-list-elements 移除链表元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/RemoveLinkedListElements.java)
 - [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
 - [209 minimum-size-subarray-sum 长度最小的子数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MinimumSizeSubArraySum.java)
-- [217 contains-duplicat 存在重复元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ContainsDuplicat.java)
+- [217 contains-duplicat 存在重复元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ContainsDuplicat.java)
 - [234 palindrome-linked-list 回文链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/PalindromeLinkedList.java)
 - [237 delete-node-in-a-linked-list 删除链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DeleteNodeInALinkedList.java)
 - [268 missing-number](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MissingNumber.java)
