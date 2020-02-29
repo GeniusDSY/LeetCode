@@ -78,6 +78,7 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 - [26 remove-duplicates-from-sorted-array 删除排序数组中的重复项](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RemoveDuplicatesFromSortedArray.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RemoveElement.java)
 - [28 implement-strstr 实现strStr()](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ImplementStrStr.java)
+- [36 valid-sudoku 有效的数独](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ValidSudoku.java)
 - [54 spiral-matrix 螺旋矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SpiralMatrix.java)
 - [60 plus-one 加一](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/PlusOne.java)
 - [67 add-binary 二进制求和](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/AddBinary.java)
