@@ -90,6 +90,7 @@ index是数组的索引，从0开始蓝色框中是各个索引所对应的元�
 - [209 minimum-size-subarray-sum 长度最小的子数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MinimumSizeSubArraySum.java)
 - [217 contains-duplicat 存在重复元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ContainsDuplicat.java)
 - [283 move-zeroes 移动零](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MoveZeroes.java)
+- [350 intersection-of-two-arrays-ii 两个数组的交集 II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/IntersectionOfTwoArraysII.java)
 - [485 max-consecutive-ones 最大连续1的个数](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MaxConsecutiveOnes.java)
 - [498 diagonal-traverse 对角线遍历](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/DiagonalTraverse.java)
 - [557 reverse-words-in-a-string-iii 反转字符串中的单词 III](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ReverseWordsInAStringIII.java)
