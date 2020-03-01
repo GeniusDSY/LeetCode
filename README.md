@@ -115,6 +115,7 @@
 - [119 pascals-triangle-ii 杨辉三角II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/PascalsTriangleII.java)
 - [121 best-time-to-buy-and-sell-stock 买卖股票的最佳时机](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/BestTimeToBuyAndSellStock.java)
 - [122 best-time-to-buy-and-sell-stock-ii 买卖股票的最佳时机II](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/BestTimeToBuyAndSellStockII.java)
+- [125 valid-palindrome 验证回文字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/ValidPalindrome.java)
 - [136 single-number 只出现一次的数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/SingleNumber.java)
 - [138 copy-list-with-random-pointer 复制带随机指针的链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/CopyListWithRandomPointer.java)
 - [141 linked-list-cycle 环形链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/LinkedListCycle.java)
