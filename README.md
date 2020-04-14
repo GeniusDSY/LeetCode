@@ -211,4 +211,5 @@
 
 ### others 偶遇其他算法题 
 
-- [【小米2019校招】 MinimumPath 最小路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MinimumPath.java) 
+- [【小米2019校招】 MinimumPath 最小路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MinimumPath.java)
+- [【斗鱼2020春招】ReverseString 反转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/ReverseString.java)
