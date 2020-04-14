@@ -214,3 +214,4 @@
 - [【小米2019校招】 MinimumPath 最小路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MinimumPath.java)
 - [【斗鱼2020春招】ReverseString 反转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/ReverseString.java)
 - [【阿里巴巴（OceanBase）2020春招】 LoopQueue 有界循环队列](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/LoopQueue.java)
+- [【阿里巴巴（淘系用户增长）2020春招】WordSearch 单词搜索](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/WordSearch.java)
