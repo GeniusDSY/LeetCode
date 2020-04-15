@@ -213,6 +213,7 @@
 
 - [【小米2019校招】 MinimumPath 最小路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MinimumPath.java)
 - [【斗鱼2020春招】ReverseString 反转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/ReverseString.java)
+- [【快手2020春招】 BracketMatching 括号匹配](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/BracketMatching.java)
 - [【快手2020春招】PowerFactor N进制完美数](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/PowerFactor.java)
 - [【快手2020春招】WaitInLine 排队最大满意度](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/WaitInLine.java)
 - [【快手2020春招】MaxStaffs 最大办公人数](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MaxStaffs.java)
