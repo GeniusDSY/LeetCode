@@ -207,6 +207,7 @@
 - [面试题22.链表中倒数第k个节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/KthNodeFromTheBottomOfTheLinkedList.java)
 - [面试题24.反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ReverseLinkedList.java)
 - [面试题27.二叉树的镜像](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MirrorTree.java)
+- [面试题55-I.二叉树的深度](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MaxDepth.java)
 - [面试题58-II.左旋转字符串](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ReverseLeftWords.java)
 
 ### others 偶遇其他算法题 
