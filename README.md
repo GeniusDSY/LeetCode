@@ -209,6 +209,7 @@
 - [面试题25.合并两个排序的链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MergeTwoLists.java)
 - [面试题26.树的子结构](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/IsSubStructure.java)
 - [面试题27.二叉树的镜像](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MirrorTree.java)
+- [面试题28.对称的二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/IsSymmetric.java)
 - [面试题38.字符串的排列](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/Permutation.java)
 - [面试题54.二叉搜索树的第k大节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/KthLargest.java)
 - [面试题55-I.二叉树的深度](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MaxDepth.java)
