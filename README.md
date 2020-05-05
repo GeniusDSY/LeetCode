@@ -212,6 +212,7 @@
 - [面试题28.对称的二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/IsSymmetric.java)
 - [面试题29.顺时针打印矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/SpiralOrder.java)
 - [面试题30.包含min函数的栈](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MinStack.java)
+- [面试题31.栈的压入、弹出序列](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ValidateStackSequences.java)
 - [面试题38.字符串的排列](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/Permutation.java)
 - [面试题54.二叉搜索树的第k大节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/KthLargest.java)
 - [面试题55-I.二叉树的深度](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MaxDepth.java)
