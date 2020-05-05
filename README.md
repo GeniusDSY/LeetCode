@@ -214,6 +214,7 @@
 - [面试题30.包含min函数的栈](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MinStack.java)
 - [面试题31.栈的压入、弹出序列](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/ValidateStackSequences.java)
 - [面试题32-I.从上到下打印二叉树](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/LevelOrderI.java)
+- [面试题32-II.从上到下打印二叉树II](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/LevelOrderII.java)
 - [面试题38.字符串的排列](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/Permutation.java)
 - [面试题54.二叉搜索树的第k大节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/KthLargest.java)
 - [面试题55-I.二叉树的深度](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MaxDepth.java)
