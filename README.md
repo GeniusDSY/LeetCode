@@ -217,6 +217,7 @@
 - [面试题32-II.从上到下打印二叉树II](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/LevelOrderII.java)
 - [面试题32-III.从上到下打印二叉树III](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/LevelOrderIII.java)
 - [面试题33.二叉搜索树的后序遍历序列](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/VerifyPostorder.java)
+- [面试题34.二叉树中和为某一值的路径](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/PathSum.java)
 - [面试题38.字符串的排列](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/Permutation.java)
 - [面试题54.二叉搜索树的第k大节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/KthLargest.java)
 - [面试题55-I.二叉树的深度](https://github.com/GeniusDSY/LeetCode/blob/master/src/sword_finger_offer/MaxDepth.java)
