@@ -94,6 +94,7 @@
 - [13 roman-to-integer 罗马数字转整数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/RomanToInteger.java)
 - [14 longest-common-prefix 最长公共前缀](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/LongestCommonPrefix.java)
 - [15 3sum 三数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ThreeNum.java)
+- [16 3sum-closest 最接近的三数之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/SumClosest.java)
 - [19 remove-nth-node-from-end-of-list 删除链表的倒数第N个节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/RemoveNthNodeFromEndOfList.java)
 - [21 merge-two-sorted-lists 合并两个有序链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/MergeTwoSortedLists.java)
 - [23 merge-k-sorted-lists 合并K个升序链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/MergeKSortedLists.java)
