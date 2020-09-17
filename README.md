@@ -239,3 +239,4 @@
 - [【阿里巴巴（OceanBase）2020春招】 LoopQueue 有界循环队列](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/LoopQueue.java)
 - [【阿里巴巴（淘系用户增长）2020春招】WordSearch 单词搜索](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/WordSearch.java)
 - [【阿里巴巴（淘系用户增长）2020春招】WallPapering 贴墙纸](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/WallPapering.java)
+- [【京东2020秋招（练习题）】 FindTheSumOfTheSequence 求数列之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/FindTheSumOfTheSequence.java)
