@@ -241,3 +241,5 @@
 - [【阿里巴巴（淘系用户增长）2020春招】WallPapering 贴墙纸](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/WallPapering.java)
 - [【京东2020秋招（练习题）】 FindTheSumOfTheSequence 求数列之和](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/FindTheSumOfTheSequence.java)
 - [【京东2020秋招（练习题）】 NumberOfDaffodils 水仙花数](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/NumberOfDaffodils.java)
+- [【美团2020秋招】NumberGames 数字游戏](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/NumberGames.java)
+- [【美团2020秋招】MatchLetters 字母匹配](https://github.com/GeniusDSY/LeetCode/blob/master/src/others/MatchLetters.java)
