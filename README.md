@@ -129,6 +129,7 @@
 - [160 intersection-of-two-linked-lists 相交链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/IntersectionOfTwoLinkedLists.java)
 - [167 two-sum-ii-input-array-is-sorted 两数之和 II - 输入有序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/TwoSumIIInputArrayIsSorted.java) 
 - [169 majority-element 求众数](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MajorityElement.java)
+- [179 largest-number 最大数](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/LargestNumber.java)
 - [182 duplicate-emails 查找重复的电子邮箱](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DuplicateEmails.sql)
 - [189 rotate-array 旋转数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RotateArray.java)
 - [203 remove-linked-list-elements 移除链表元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/RemoveLinkedListElements.java)
