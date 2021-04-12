@@ -139,6 +139,7 @@
 - [237 delete-node-in-a-linked-list 删除链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DeleteNodeInALinkedList.java)
 - [242 valid-anagram 有效的字母异位词](https://github.com/GeniusDSY/LeetCode/blob/master/src/solurions/ValidAnagram.java)
 - [263 ugly-number 丑数](https://github.com/GeniusDSY/LeetCode/blob/master/src/solurions/UglyNumber.java)
+- [264 ugly-number-ii 丑数II](https://github.com/GeniusDSY/LeetCode/blob/master/src/solurions/UglyNumberII.java)
 - [268 missing-number 丢失的数字](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/MissingNumber.java)
 - [283 move-zeroes 移动零](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MoveZeroes.java)
 - [328 odd-even-linked-list 奇偶链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/OddEvenLinkedList.java)
