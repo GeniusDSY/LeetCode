@@ -136,6 +136,7 @@
 - [206 reverse-linked-list 反转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/recursion_i/ReverseLinkedList.java)
 - [209 minimum-size-subarray-sum 长度最小的子数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/MinimumSizeSubArraySum.java)
 - [217 contains-duplicat 存在重复元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ContainsDuplicat.java)
+- [220 contains-duplicate-iii 存在重复元素 III](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/ContainsDuplicateIII.java)
 - [234 palindrome-linked-list 回文链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/linked_list/PalindromeLinkedList.java)
 - [237 delete-node-in-a-linked-list 删除链表中的节点](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/DeleteNodeInALinkedList.java)
 - [242 valid-anagram 有效的字母异位词](https://github.com/GeniusDSY/LeetCode/blob/master/src/solurions/ValidAnagram.java)
