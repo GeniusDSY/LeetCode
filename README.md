@@ -102,7 +102,7 @@
 - [25 reverse-nodes-in-k-group K 个一组翻转链表](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/ReverseNodesInKGroup.java)
 - [26 remove-duplicates-from-sorted-array 删除排序数组中的重复项](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RemoveDuplicatesFromSortedArray.java)
 - [27 remove-element 移除元素](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/RemoveElement.java)
-- [28 implement-strstr 实现strStr()](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ImplementStrStr.java)
+- [28 implement-strstr 实现strStr()](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/ImplementStrStr.java)
 - [36 valid-sudoku 有效的数独](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/ValidSudoku.java)
 - [31 next-permutation 下一个排列](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/NextPermutation.java)
 - [48 rotate-image 旋转图像](https://github.com/GeniusDSY/LeetCode/blob/master/src/explore/array/RotateImage.java)
