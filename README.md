@@ -174,6 +174,7 @@
 - [832 flipping-an-image 翻转图像](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/FlippingAnImage.java)
 - [862 shortest-subarray-with-sum-at-least-k 和至少为 K 的最短子数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/ShortestSubArrayWithSumAtLeastK.java)
 - [867 transpose-matrix 转置矩阵](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/TransposeMatrix.java)
+- [897 increasing-order-search-tree 递增顺序搜索树](https://github.com/GeniusDSY/LeetCode/blob/master/src/solutions/IncreasingOrderSearchTree.java)
 - [905 sort-array-by-parity 按奇偶排序数组](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SortArrayByParity.java) 
 - [922 sort-array-by-parity-i 按奇偶排序数组II](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SortArrayByParityII.java)
 - [977 squares-of-a-sorted-array 有序数组的平方](https://github.com/GeniusDSY/LeetCode/blob/master/src/array/SquaresOf_A_SortedArray.java)
